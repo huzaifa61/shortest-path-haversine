@@ -1,9 +1,5 @@
 # Best Route Optimization
 
-## File Name
-The Java implementation following the second approach is contained in:
-**`best_route_delivery.java`**
-
 ## Overview
 This project calculates the optimal route for a delivery executive by:
 - Using the **Haversine formula** to compute distances between locations.
